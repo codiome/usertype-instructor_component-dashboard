@@ -1,8 +1,8 @@
 {
-  "name": "learner dashboard plugin",
+  "name": "instructor dashboard plugin",
   "type": "helper",
   "properties": {
-    "user_type": "learner",
+    "user_type": "instructor",
     "component": "dashboard"
   }
 }
