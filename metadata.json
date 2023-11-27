@@ -1,5 +1,5 @@
 {
-  "name": "instructor dashboard plugin",
+  "name": "instructor user dashboard component plugin",
   "type": "helper",
   "properties": {
     "user_type": "instructor",
