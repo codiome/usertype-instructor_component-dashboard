@@ -1,2 +1,2 @@
 console.log("instructor dashboard")
-console.log("test")
+console.log("te")
